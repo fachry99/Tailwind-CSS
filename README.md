@@ -5,3 +5,4 @@
 <p><a href="https://github.com/fachry99/reactjs/tree/main">Main</a>: Installasi dan konfigurasi</p>
 <p><a href="https://github.com/fachry99/reactjs/tree/episode1">Episode1</a>: Basic utility</p>
 <p><a href="https://github.com/fachry99/reactjs/tree/episode2">Episode2</a>: Pseudo-Class & Dark Mode</p>
+<p><a href="https://github.com/fachry99/reactjs/tree/episode3">Episode3</a>: Transform, transition, Animation</p>
